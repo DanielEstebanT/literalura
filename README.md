@@ -10,4 +10,5 @@ Para poder ejecutar correctamente el programa sigue estos pasos
 - ${DB_NAME} es el nombre de tu base de datos
 - ${DB_PASSWORD} es la password de postgres o pgadmin
 
-- Una vez hecho eso puede ir a la carpeta src/main/java/com.alura.literalura y acceder 
+- Una vez hecho eso puede ir a la carpeta src/main/java/com.alura.literalura y acceder al archivo Challenge2BackLiteraturaApplicationConsola.java ahi podrás ejecutar el programa y usarlo
+- Gracias!!
